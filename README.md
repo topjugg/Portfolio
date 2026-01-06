@@ -3,7 +3,7 @@
 Personal portfolio website showcasing my projects, education, and experience as a Software Engineering student.
 
 ## 🌐 Live Demo
-Visit: [https://topjugg.github.io/Portfolio](https://topjugg.github.io/Portfolio)
+Visit: https://carlgiovannindome.vercel.app/
 
 ## 👨‍💻 About
 Software Engineering student at Manchester Metropolitan University interested in code, finance, and geopolitics. Currently serving as Economics Club Treasurer and working as an Associate at OnDemand People.
